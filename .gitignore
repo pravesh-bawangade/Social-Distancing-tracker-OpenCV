@@ -1,0 +1,5 @@
+.idea/
+venv/
+test/
+*.avi
+.DS_Store/
