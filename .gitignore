@@ -2,4 +2,4 @@
 venv/
 test/
 *.avi
-.DS_Store/
+.DS_Store
